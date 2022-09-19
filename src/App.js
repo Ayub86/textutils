@@ -15,8 +15,7 @@ import {
 
 
 function App() {
-  // new addition
-
+// comment added
   const[mode,setMode]=useState('light');
  
   const[alret,setAlert]=useState(null);
